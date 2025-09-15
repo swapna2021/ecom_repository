@@ -2,5 +2,6 @@ public class Hello{
     public static void main(String[] args) {
         System.out.println("Hello, World!");
         System.out.println("This is a sample Java program.");
+        System.out.println("It prints multiple lines to the console.");
     }
 }
